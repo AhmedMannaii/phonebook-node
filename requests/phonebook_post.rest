@@ -1,0 +1,8 @@
+// use post from index.js
+POST http://localhost:3002/api/persons
+content-type: application/json
+
+{
+    "name": "aaaab",
+    "number": "12345692"
+}
